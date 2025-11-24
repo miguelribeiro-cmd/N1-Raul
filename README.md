@@ -1,2 +1,6 @@
 # N1-Raul
-N1 do Raul CRUD
+Arthur Costa
+Breno Rosolen
+Guilherme Gil
+Miguel Ribeiro
+Nicolas Liborio
